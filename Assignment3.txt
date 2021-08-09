@@ -1,0 +1,4 @@
+#! /usr/bin/bash
+echo "HEllo world" #it will print the hello world
+echo $HOME #it will give home directory
+echo $USER #it will give username

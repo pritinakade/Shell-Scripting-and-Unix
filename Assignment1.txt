@@ -1,0 +1,9 @@
+#!usr/bin/bash
+
+echo "This script will give environment information"
+
+echo "Username: $USER"
+echo "Home Directory is: $HOME"
+echo "History File Will Ignore: $HISTCONTROL"
+echo "Terminal Session Type is: $TERM"
+echo ""

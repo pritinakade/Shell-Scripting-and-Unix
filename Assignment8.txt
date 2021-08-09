@@ -1,0 +1,9 @@
+echo " enter the name "
+read FNAME 
+echo " enter the lastname "
+read LNAME 
+echo " enter the age "
+read AGE
+echo "$FNAME $LNAME your age is $AGE "
+newage=$(( AGE + 10))
+echo "$FNAME $LNAME your age after 10 years is $newage"

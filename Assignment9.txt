@@ -1,0 +1,3 @@
+#!usr/bin/bash
+SERVERLIST=('one' 'two' 'three' 'four')
+echo ${array[@]}

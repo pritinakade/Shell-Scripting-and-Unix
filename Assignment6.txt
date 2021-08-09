@@ -1,0 +1,7 @@
+#!/bin/bash
+no1=3
+no2=6
+no3=7
+echo $(( no1+no2 ))
+echo $(expr $no1 + $no2 \* $no3)
+echo $(expr $(expr $no1 + $no2 ) \* $no3 )

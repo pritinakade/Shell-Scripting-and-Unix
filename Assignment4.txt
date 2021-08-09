@@ -1,0 +1,2 @@
+echo "Hello everyone. This line will be displayed on screen."
+echo "okay thank you!" > /dev/null #filter out the errors
